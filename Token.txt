@@ -6,3 +6,6 @@
 1-0-2-2-7-u-0-_-a-2-2-7 Samuel Stany
 1-0-1-3-0-u-0-_-a-1-3-0 Mehar Haseeb
 1-0-2-3-4-u-0-_-a-2-3-4 Zeenat Pari 
+1-0-6-0-8-u-0-_-a-6-0-8 Minhazul Islam
+1-0-2-4-6-u-0-_-a-2-4-6 Md Rion
+1-0-2-6-9-u-0-_-a-2-6-9 Surya Washu
