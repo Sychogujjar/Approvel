@@ -15,3 +15,7 @@
 1-0-0-2-9-u-0-_-a-2-9   Pagl
 1-0-4-9-0-u-0-_-a-4-9-0 No Name
 1-0-4-2-1-u-0-_-a-4-2-1 Dont Show me atti
+1-0-3-2-4-u-0-_-a-3-2-4 Sikandar Shah
+1-0-2-5-0-u-0-_-a-2-5-0 Razu
+1-0-2-6-9-u-0-_-a-2-6-9 Sahil Kandohi
+1-0-3-9-0-u-0-_-a-3-9-0 Azan Ch
